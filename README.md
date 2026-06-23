@@ -34,7 +34,7 @@ The dataset contains hotel booking records from City Hotel and Resort Hotel betw
 1. Adopt flexible pricing strategies and targeted discounts during high demand periods.
 2. Increase promotional and customer engagement efforts during January to address elevated cancellation rates.
 3. Focus on improving customer experience and retention initiatives in regions with high cancellation volumes, particularly Portugal.
-4. Expand and promote direct booking options to reduce reliance on third-party booking platforms.
+4. Expand and promote direct booking options to reduce reliance on third party booking platforms.
 
 ## Repository Structure
 
@@ -49,4 +49,4 @@ The dataset contains hotel booking records from City Hotel and Resort Hotel betw
 |── Booking Datasets.csv # The dataset
 
 ## Conclusion
-This project demonstrates an end-to-end data analytics workflow, from data cleaning and exploratory data analysis to visualization and business recommendations. The insights generated can help hotel management better understand customer booking behavior, reduce cancellations, and improve overall revenue performance.
+This project demonstrates an end to end data analytics workflow, from data cleaning and exploratory data analysis to visualization and business recommendations. The insights generated can help hotel management better understand customer booking behavior, reduce cancellations, and improve overall revenue performance.
