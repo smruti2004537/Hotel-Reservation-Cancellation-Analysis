@@ -46,7 +46,5 @@ The dataset contains hotel booking records from City Hotel and Resort Hotel betw
 
 |── Requirements.txt # Required libraries
 
-|── Booking Datasets.csv # The dataset
-
 ## Conclusion
 This project demonstrates an end to end data analytics workflow, from data cleaning and exploratory data analysis to visualization and business recommendations. The insights generated can help hotel management better understand customer booking behavior, reduce cancellations, and improve overall revenue performance.
